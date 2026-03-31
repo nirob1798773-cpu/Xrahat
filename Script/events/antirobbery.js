@@ -2,7 +2,7 @@ module.exports.config = {
     name: "guard",
     eventType: ["log:thread-admins"],
     version: "1.0.0",
-    credits: "🔰𝐑𝐀𝐇𝐀𝐓 𝐈𝐒𝐋𝐀𝐌🔰",
+    credits: "🔰 RAMIM Æ AKUMA 🔰",
     description: "Prevent admin changes",
 };
 
